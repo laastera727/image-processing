@@ -20,7 +20,7 @@ List of packages used in this project can be found [here](./requirements.txt)
 
 ### Prerequisites
 
-- Python3: [[download link]](https://docs.python.org/3/using/windows.html) | [[Windows setup]](https://docs.python.org/3/using/index.html) | [[Mac setup]](https://docs.python.org/3/using/mac.html)
+- Python3: [[download link]](https://www.python.org/downloads/) | [[Windows setup]](https://docs.python.org/3/using/windows.html) | [[Mac setup]](https://docs.python.org/3/using/mac.html)
 
 ### Installation
 
