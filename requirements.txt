@@ -1,0 +1,2 @@
+#Install all of these here
+pip install astropy
